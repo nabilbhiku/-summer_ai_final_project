@@ -1,0 +1,18 @@
+Nicola, Nabil, Val and Luke
+
+Introduction. What is the problem or task you are trying to solve? 
+-We created an AI that can play tic tac toe optimally.
+
+What methods are you using to solve them? (This may be answered by the assignment itself, but write it in your own words.)
+-We used minimax, alpha beta cutoff and alpha beta pruning
+
+What implementation choices did you make? How did you decide on those choices? How did you evaluate or test your system?
+-We first made UML diagrams, pseudocodes and then implemented minimax, alpha beta cutoff and alpha beta pruning through coding.
+
+Did your system work? How well? Provide tables / numerical results if appropriate.
+-Yes it worked with tic tac toewith minimax and alpha beta pruning but not as well with alpha beta cutoff.
+
+Based on your results, were your methods and choices appropriate for the task? What would you do differently next time? 
+Or if you had more time? Are there any ethical implications of your system that others should be aware of?
+-Yes our methods were appropriate. Next time we would write our own code for tic tac toe because it was challenging to understand what the built in functions did.
+ 
